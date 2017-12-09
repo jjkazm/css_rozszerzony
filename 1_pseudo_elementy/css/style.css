@@ -1,3 +1,12 @@
-body {
+input[type="text"]{
+    background-color: blue;
+}
+
+div [suma*="2560"]{
+    color: brown;
+}
+
+div[detaliczny*="tak"]{
     background-color: aqua;
 }
+
